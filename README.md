@@ -1,5 +1,5 @@
 # ChatWithPDF
-Chat with PDF 📚
+TumbleReedPDF
 
 # Installation 
 
